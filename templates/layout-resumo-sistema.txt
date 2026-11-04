@@ -1,0 +1,548 @@
+Análise Financeira Anual
+
+Mês: Janeiro
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00
+- Receitas Diversas: R$ 0,00
+- Diversos: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Despesas de Casa: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Diversos: R$ 0,00
+- Alimentação: R$ 0,00
+- Despesas Diversas: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Empréstimos: R$ 0,00
+- Carros: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Outros: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Escola: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Fevereiro
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Receitas Diversas: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Salários e Quinzenas: R$ 0,00
+- Diversos: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Cursos e Treinamentos: R$ 0,00
+- Despesas de Casa: R$ 0,00
+- Diversos: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Alimentação: R$ 0,00
+- Doaçoes: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Transportes: R$ 0,00
+- Empréstimos: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Escola: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Pet: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Março
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00
+- Receitas Diversas: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Diversos: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Despesas de Casa: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Doaçoes: R$ 0,00
+- Alimentação: R$ 0,00
+- Empréstimos: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Escola: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Diversos: R$ 0,00
+- Combustíveis: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Pet: R$ 0,00
+- Carros: R$ 0,00
+- Despesas Diversas: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Abril
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- PLR: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Salários e Quinzenas: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+- Receitas Diversas: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Despesas de Casa: R$ 0,00
+- Diversos: R$ 0,00
+- Alimentação: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Doaçoes: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Combustíveis: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Escola: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Pet: R$ 0,00
+- Despesas Diversas: R$ 0,00
+- Carros: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Maio
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Reembolsáveis: R$ 0,00
+- Diversos: R$ 0,00
+- Receitas Diversas: R$ 0,00
+- Salários e Quinzenas: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Pet: R$ 0,00
+- Doaçoes: R$ 0,00
+- Despesas de Casa: R$ 0,00
+- Empréstimos: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Carros: R$ 0,00
+- Alimentação: R$ 0,00
+- Combustíveis: R$ 0,00
+- Diversos: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Escola: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Manut. March: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Junho
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Diversos: R$ 0,00
+- Manut. March: R$ 0,00
+- Receitas Diversas: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Doaçoes: R$ 0,00
+- Despesas de Casa: R$ 0,00
+- Carros: R$ 0,00
+- Alimentação: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Diversos: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Energia: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Escola: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Pet: R$ 0,00
+- Combustíveis: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Julho
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+- Receitas Diversas: R$ 0,00
+- Diversos: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Despesas de Casa: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Alimentação: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Doaçoes: R$ 0,00
+- Carros: R$ 0,00
+- Celular: R$ 0,00
+- Manut. March: R$ 0,00
+- Energia: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Escola: R$ 0,00
+- Diversos: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Pet: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Combustíveis: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Agosto
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Despesas de Casa: R$ 0,00
+- Doaçoes: R$ 0,00
+- Alimentação: R$ 0,00
+- Internet: R$ 0,00
+- Celular: R$ 0,00
+- Energia: R$ 0,00
+- Combustíveis: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Escola: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Carros: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Diversos: R$ 0,00
+- Pet: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Reembolsáveis: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Setembro
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Diversos: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+- Férias e 13° salário: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Doaçoes: R$ 0,00
+- Despesas de Casa: R$ 0,00
+- Carros: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Alimentação: R$ 0,00
+- Diversos: R$ 0,00
+- Energia: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Escola: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Pet: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Celular: R$ 0,00
+- Combustíveis: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Outubro
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Despesas de Casa: R$ 0,00
+- Doaçoes: R$ 0,00
+- Carros: R$ 0,00
+- Combustíveis: R$ 0,00
+- Internet: R$ 0,00
+- Alimentação: R$ 0,00
+- Investimentos: R$ 0,00
+- Energia: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Escola: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Pet: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Celular: R$ 0,00
+- Diversos: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Novembro (mês atual)
+Receitas Totais: R$ 0,00
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Receitas Diversas: R$ 0,00
+- Salários e Quinzenas: R$ 0,00
+Despesas Totais: R$ 0,00
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Taxas e Impostos: R$ 0,00
+- Doaçoes: R$ 0,00
+- Internet: R$ 0,00
+- Carros: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Energia: R$ 0,00
+- Despesas de Casa: R$ 0,00
+- Habitação: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Pet: R$ 0,00
+- Diversos: R$ 0,00
+- Celular: R$ 0,00
+- Alimentação: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Combustíveis: R$ 0,00
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Mês: Dezembro
+Receitas Totais: R$ 0,00 (provisionado)
+Receitas Fixas: R$ 0,00
+Receitas Variáveis: R$ 0,00
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 0,00 (provisionado)
+- Receitas Diversas: R$ 0,00 (provisionado)
+Despesas Totais: R$ 0,00 (provisionado)
+Despesas Fixas: R$ 0,00
+Despesas Variáveis: R$ 0,00
+Despesas por Categoria:
+- Taxas e Impostos: R$ 0,00
+- Despesas de Casa: R$ 0,00 (provisionado)
+- Doaçoes: R$ 0,00 (provisionado)
+- Manut. Gol: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Carros: R$ 0,00 (provisionado)
+- Saúde e Medicamentos: R$ 0,00 (provisionado)
+- Diversos: R$ 0,00
+- Internet: R$ 0,00 (provisionado)
+- Energia: R$ 0,00 (provisionado)
+Saldo do mês: R$ 0,00
+Saldo acumulado: R$ 0,00
+
+-------------
+
+Resumo do Ano:
+Saldo do Ano Anterior: R$ 0,00
+Saldo Bancário Atual: R$ 0,00
+Valor de Aplicações do Saldo Atual: R$ 0,00
+Total de Receitas: R$ 0,00
+Total de Receitas Fixas: R$ 0,00
+Total de Receitas Variáveis: R$ 0,00
+Total de Despesas: R$ 0,00
+Total de Despesas Fixas: R$ 0,00
+Total de Despesas Variáveis: R$ 0,00
+Do total acima, JÁ REALIZADO (Janeiro a Novembro): Receitas R$ 0,00 | Despesas R$ 0,00
+Do total acima, PROVISIONADO (meses futuros): Receitas R$ 0,00 | Despesas R$ 0,00
+Saldo Acumulado Final: R$ 0,00
+
+Receitas Totais por Categoria no Ano (realizado + provisionado):
+- Salários e Quinzenas: R$ 0,00
+- Receitas Diversas: R$ 0,00
+- Diversos: R$ 0,00
+- Rendimentos de Aplicações: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- PLR: R$ 0,00
+- Manut. March: R$ 0,00
+- Férias e 13° salário: R$ 0,00
+
+Despesas Totais por Categoria no Ano (realizado + provisionado):
+- Despesas de Casa: R$ 0,00
+- Cursos e Treinamentos: R$ 0,00
+- Diversos: R$ 0,00
+- Alimentação: R$ 0,00
+- Despesas Diversas: R$ 0,00
+- Saúde e Medicamentos: R$ 0,00
+- Empréstimos: R$ 0,00
+- Carros: R$ 0,00
+- Manut. Gol: R$ 0,00
+- Manut. FIT: R$ 0,00
+- Planos e Assinaturas: R$ 0,00
+- Outros: R$ 0,00
+- Taxas e Impostos: R$ 0,00
+- Escola: R$ 0,00
+- Roupas e Acessórios: R$ 0,00
+- Doaçoes: R$ 0,00
+- Transportes: R$ 0,00
+- Pet: R$ 0,00
+- Combustíveis: R$ 0,00
+- Manut. March: R$ 0,00
+- Energia: R$ 0,00
+- Celular: R$ 0,00
+- Internet: R$ 0,00
+- Reembolsáveis: R$ 0,00
+- Investimentos: R$ 0,00
+- Habitação: R$ 0,00
+
+============================================================
+Contas em Aberto (posição atual - vencimentos até um mês à frente):
+Receitas a Receber (Pendentes): R$ 0,00
+- Em Atraso (1): R$ 0,00
+- Vencendo Hoje (0): R$ 0,00
+- A Vencer (3): R$ 0,00
+Despesas a Pagar (Pendentes): R$ 0,00
+- Em Atraso (0): R$ 0,00
+- Vencendo Hoje (0): R$ 0,00
+- A Vencer (12): R$ 0,00
+Saldo Líquido de Contas em Aberto: R$ 0,00
+
+============================================================
+Cartões de Crédito:
+
+Cartão: Nubank
+- Melhor dia de compra: 14 | Dia de vencimento da fatura: 21
+- Limite Total: R$ 0,00
+- Limite Utilizado (dívida em aberto): R$ 0,00 (0,0% do limite)
+- Limite Disponível: R$ 0,00
+- Última fatura paga: R$ 0,00 (venc. 21/10/2026)
+- Faturas em aberto (10) - total R$ 0,00:
+  . Vencimento 21/11/2026: R$ 0,00 (7 lançamentos)
+  . Vencimento 21/12/2026: R$ 0,00 (3 lançamentos)
+  . Vencimento 21/01/2027: R$ 0,00 (3 lançamentos)
+  . Vencimento 21/02/2027: R$ 0,00 (3 lançamentos)
+  . Vencimento 21/03/2027: R$ 0,00 (2 lançamentos)
+  . Vencimento 21/04/2027: R$ 0,00 (2 lançamentos)
+  . Vencimento 21/05/2027: R$ 0,00 (2 lançamentos)
+  . Vencimento 21/06/2027: R$ 0,00 (2 lançamentos)
+  . Vencimento 21/07/2027: R$ 0,00 (1 lançamento)
+  . Vencimento 21/08/2027: R$ 0,00 (1 lançamento)
+
+Cartão: Itaúcard PDA
+- Melhor dia de compra: 25 | Dia de vencimento da fatura: 1
+- Limite Total: R$ 0,00
+- Limite Utilizado (dívida em aberto): R$ 0,00 (0,0% do limite)
+- Limite Disponível: R$ 0,00
+- Última fatura paga: R$ 0,00 (venc. 01/11/2026)
+- Faturas em aberto (5) - total R$ 0,00:
+  . Vencimento 01/12/2026: R$ 0,00 (3 lançamentos)
+  . Vencimento 01/01/2027: R$ 0,00 (1 lançamento)
+  . Vencimento 01/02/2027: R$ 0,00 (1 lançamento)
+  . Vencimento 01/03/2027: R$ 0,00 (1 lançamento)
+  . Vencimento 01/04/2027: R$ 0,00 (1 lançamento)
+
+Cartão: Mercado Pago
+- Melhor dia de compra: 12 | Dia de vencimento da fatura: 17
+- Limite Total: R$ 0,00
+- Limite Utilizado (dívida em aberto): R$ 0,00 (0,0% do limite)
+- Limite Disponível: R$ 0,00
+- Última fatura paga: R$ 0,00 (venc. 17/10/2026)
+- Faturas em aberto (2) - total R$ 0,00:
+  . Vencimento 17/11/2026: R$ 0,00 (3 lançamentos)
+  . Vencimento 17/12/2026: R$ 0,00 (3 lançamentos)
+
+Cartão: C6 Carbon
+- Melhor dia de compra: 25 | Dia de vencimento da fatura: 4
+- Limite Total: R$ 0,00
+- Limite Utilizado (dívida em aberto): R$ 0,00 (0,0% do limite)
+- Limite Disponível: R$ 0,00
+- Última fatura paga: R$ 0,00 (venc. 04/11/2026)
+- Faturas em aberto (5) - total R$ 0,00:
+  . Vencimento 04/12/2026: R$ 0,00 (7 lançamentos)
+  . Vencimento 04/01/2027: R$ 0,00 (3 lançamentos)
+  . Vencimento 04/02/2027: R$ 0,00 (2 lançamentos)
+  . Vencimento 04/03/2027: R$ 0,00 (2 lançamentos)
+  . Vencimento 04/04/2027: R$ 0,00 (1 lançamento)
+
+Resumo dos Cartões:
+- Limite Total (todos os cartões): R$ 0,00
+- Total Utilizado (dívida total em cartões): R$ 0,00 (0,0% do limite total)
+- Limite Disponível Total: R$ 0,00
+- Total das próximas faturas a pagar (a primeira em aberto de cada cartão): R$ 0,00
+- Total de TODAS as faturas em aberto (compromisso já assumido nos cartões): R$ 0,00

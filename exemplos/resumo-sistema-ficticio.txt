@@ -1,0 +1,548 @@
+Análise Financeira Anual
+
+Mês: Janeiro
+Receitas Totais: R$ 7.299,08
+Receitas Fixas: R$ 6.204,22
+Receitas Variáveis: R$ 1.094,86
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 6.994,30
+- Receitas Diversas: R$ 62,24
+- Diversos: R$ 202,26
+- Rendimentos de Aplicações: R$ 40,28
+Despesas Totais: R$ 6.508,49
+Despesas Fixas: R$ 3.579,67
+Despesas Variáveis: R$ 2.928,82
+Despesas por Categoria:
+- Despesas de Casa: R$ 2.114,35
+- Cursos e Treinamentos: R$ 183,59
+- Diversos: R$ 54,36
+- Alimentação: R$ 902,97
+- Despesas Diversas: R$ 45,75
+- Saúde e Medicamentos: R$ 212,13
+- Empréstimos: R$ 620,00
+- Carros: R$ 68,10
+- Manut. Gol: R$ 208,30
+- Manut. FIT: R$ 377,28
+- Planos e Assinaturas: R$ 82,00
+- Outros: R$ 123,76
+- Taxas e Impostos: R$ 293,52
+- Escola: R$ 950,00
+- Roupas e Acessórios: R$ 272,38
+Saldo do mês: R$ 790,59
+Saldo acumulado: R$ 4.040,99
+
+-------------
+
+Mês: Fevereiro
+Receitas Totais: R$ 7.613,83
+Receitas Fixas: R$ 6.471,76
+Receitas Variáveis: R$ 1.142,07
+Receitas por Categoria:
+- Receitas Diversas: R$ 131,07
+- Reembolsáveis: R$ 293,35
+- Salários e Quinzenas: R$ 6.827,95
+- Diversos: R$ 260,37
+- Taxas e Impostos: R$ 101,09
+Despesas Totais: R$ 6.369,58
+Despesas Fixas: R$ 3.503,27
+Despesas Variáveis: R$ 2.866,31
+Despesas por Categoria:
+- Cursos e Treinamentos: R$ 90,59
+- Despesas de Casa: R$ 1.947,12
+- Diversos: R$ 159,56
+- Saúde e Medicamentos: R$ 372,77
+- Alimentação: R$ 772,29
+- Doaçoes: R$ 274,27
+- Manut. Gol: R$ 298,34
+- Transportes: R$ 186,41
+- Empréstimos: R$ 620,00
+- Manut. FIT: R$ 56,37
+- Escola: R$ 950,00
+- Roupas e Acessórios: R$ 116,50
+- Pet: R$ 315,77
+- Planos e Assinaturas: R$ 209,59
+Saldo do mês: R$ 1.244,25
+Saldo acumulado: R$ 5.285,24
+
+-------------
+
+Mês: Março
+Receitas Totais: R$ 7.665,70
+Receitas Fixas: R$ 6.515,84
+Receitas Variáveis: R$ 1.149,86
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 6.988,49
+- Receitas Diversas: R$ 183,96
+- Rendimentos de Aplicações: R$ 146,89
+- Reembolsáveis: R$ 103,93
+- Diversos: R$ 242,43
+Despesas Totais: R$ 7.854,14
+Despesas Fixas: R$ 4.319,78
+Despesas Variáveis: R$ 3.534,36
+Despesas por Categoria:
+- Despesas de Casa: R$ 2.179,60
+- Manut. Gol: R$ 132,52
+- Doaçoes: R$ 271,26
+- Alimentação: R$ 910,08
+- Empréstimos: R$ 620,00
+- Cursos e Treinamentos: R$ 336,37
+- Saúde e Medicamentos: R$ 150,93
+- Manut. FIT: R$ 441,67
+- Escola: R$ 950,00
+- Roupas e Acessórios: R$ 205,61
+- Planos e Assinaturas: R$ 348,00
+- Diversos: R$ 93,83
+- Combustíveis: R$ 235,36
+- Taxas e Impostos: R$ 46,47
+- Pet: R$ 310,65
+- Carros: R$ 351,12
+- Despesas Diversas: R$ 270,67
+Saldo do mês: -R$ 188,44
+Saldo acumulado: R$ 5.096,80
+
+-------------
+
+Mês: Abril
+Receitas Totais: R$ 11.693,82
+Receitas Fixas: R$ 9.939,75
+Receitas Variáveis: R$ 1.754,07
+Receitas por Categoria:
+- PLR: R$ 4.000,00
+- Reembolsáveis: R$ 107,85
+- Salários e Quinzenas: R$ 7.217,18
+- Rendimentos de Aplicações: R$ 186,42
+- Receitas Diversas: R$ 182,37
+Despesas Totais: R$ 7.402,24
+Despesas Fixas: R$ 4.071,23
+Despesas Variáveis: R$ 3.331,01
+Despesas por Categoria:
+- Despesas de Casa: R$ 2.082,48
+- Diversos: R$ 382,79
+- Alimentação: R$ 1.077,87
+- Cursos e Treinamentos: R$ 229,12
+- Manut. Gol: R$ 308,94
+- Doaçoes: R$ 55,48
+- Taxas e Impostos: R$ 324,63
+- Combustíveis: R$ 301,79
+- Saúde e Medicamentos: R$ 447,10
+- Manut. FIT: R$ 375,21
+- Escola: R$ 950,00
+- Roupas e Acessórios: R$ 192,03
+- Planos e Assinaturas: R$ 310,83
+- Pet: R$ 39,48
+- Despesas Diversas: R$ 223,91
+- Carros: R$ 100,58
+Saldo do mês: R$ 4.291,58
+Saldo acumulado: R$ 9.388,38
+
+-------------
+
+Mês: Maio
+Receitas Totais: R$ 7.420,81
+Receitas Fixas: R$ 6.307,69
+Receitas Variáveis: R$ 1.113,12
+Receitas por Categoria:
+- Reembolsáveis: R$ 52,79
+- Diversos: R$ 36,51
+- Receitas Diversas: R$ 235,11
+- Salários e Quinzenas: R$ 6.877,60
+- Taxas e Impostos: R$ 89,33
+- Rendimentos de Aplicações: R$ 129,47
+Despesas Totais: R$ 7.878,36
+Despesas Fixas: R$ 4.333,10
+Despesas Variáveis: R$ 3.545,26
+Despesas por Categoria:
+- Pet: R$ 396,00
+- Doaçoes: R$ 63,84
+- Despesas de Casa: R$ 2.079,67
+- Empréstimos: R$ 620,00
+- Cursos e Treinamentos: R$ 401,02
+- Carros: R$ 374,10
+- Alimentação: R$ 1.045,59
+- Combustíveis: R$ 146,94
+- Diversos: R$ 204,42
+- Manut. Gol: R$ 180,68
+- Taxas e Impostos: R$ 401,36
+- Saúde e Medicamentos: R$ 432,25
+- Manut. FIT: R$ 93,39
+- Escola: R$ 950,00
+- Planos e Assinaturas: R$ 127,42
+- Roupas e Acessórios: R$ 128,00
+- Manut. March: R$ 233,68
+Saldo do mês: -R$ 457,55
+Saldo acumulado: R$ 8.930,83
+
+-------------
+
+Mês: Junho
+Receitas Totais: R$ 7.707,47
+Receitas Fixas: R$ 6.551,35
+Receitas Variáveis: R$ 1.156,12
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 7.153,47
+- Reembolsáveis: R$ 93,57
+- Diversos: R$ 21,15
+- Manut. March: R$ 137,31
+- Receitas Diversas: R$ 123,39
+- Rendimentos de Aplicações: R$ 178,58
+Despesas Totais: R$ 7.323,65
+Despesas Fixas: R$ 4.028,01
+Despesas Variáveis: R$ 3.295,64
+Despesas por Categoria:
+- Doaçoes: R$ 430,30
+- Despesas de Casa: R$ 2.176,20
+- Carros: R$ 246,51
+- Alimentação: R$ 947,04
+- Manut. Gol: R$ 314,00
+- Diversos: R$ 52,68
+- Saúde e Medicamentos: R$ 407,80
+- Manut. FIT: R$ 357,59
+- Energia: R$ 397,30
+- Taxas e Impostos: R$ 365,11
+- Cursos e Treinamentos: R$ 194,80
+- Escola: R$ 950,00
+- Planos e Assinaturas: R$ 73,49
+- Roupas e Acessórios: R$ 296,40
+- Pet: R$ 56,14
+- Combustíveis: R$ 58,29
+Saldo do mês: R$ 383,82
+Saldo acumulado: R$ 9.314,65
+
+-------------
+
+Mês: Julho
+Receitas Totais: R$ 7.160,71
+Receitas Fixas: R$ 6.086,60
+Receitas Variáveis: R$ 1.074,11
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 6.925,26
+- Reembolsáveis: R$ 65,44
+- Rendimentos de Aplicações: R$ 115,22
+- Receitas Diversas: R$ 34,72
+- Diversos: R$ 20,07
+Despesas Totais: R$ 6.448,89
+Despesas Fixas: R$ 3.546,89
+Despesas Variáveis: R$ 2.902,00
+Despesas por Categoria:
+- Despesas de Casa: R$ 1.960,51
+- Manut. Gol: R$ 72,62
+- Taxas e Impostos: R$ 182,72
+- Alimentação: R$ 710,20
+- Saúde e Medicamentos: R$ 397,22
+- Doaçoes: R$ 287,91
+- Carros: R$ 92,39
+- Celular: R$ 135,95
+- Manut. March: R$ 175,90
+- Energia: R$ 182,95
+- Cursos e Treinamentos: R$ 81,59
+- Escola: R$ 950,00
+- Diversos: R$ 447,10
+- Planos e Assinaturas: R$ 225,72
+- Roupas e Acessórios: R$ 233,21
+- Pet: R$ 66,07
+- Manut. FIT: R$ 72,92
+- Combustíveis: R$ 173,91
+Saldo do mês: R$ 711,82
+Saldo acumulado: R$ 10.026,47
+
+-------------
+
+Mês: Agosto
+Receitas Totais: R$ 7.276,13
+Receitas Fixas: R$ 6.184,71
+Receitas Variáveis: R$ 1.091,42
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 6.958,85
+- Reembolsáveis: R$ 252,08
+- Rendimentos de Aplicações: R$ 65,20
+Despesas Totais: R$ 7.728,30
+Despesas Fixas: R$ 4.250,56
+Despesas Variáveis: R$ 3.477,74
+Despesas por Categoria:
+- Despesas de Casa: R$ 1.909,24
+- Doaçoes: R$ 429,41
+- Alimentação: R$ 911,30
+- Internet: R$ 91,57
+- Celular: R$ 258,13
+- Energia: R$ 41,36
+- Combustíveis: R$ 251,81
+- Taxas e Impostos: R$ 440,97
+- Cursos e Treinamentos: R$ 392,60
+- Escola: R$ 950,00
+- Manut. Gol: R$ 139,67
+- Planos e Assinaturas: R$ 184,01
+- Roupas e Acessórios: R$ 100,16
+- Carros: R$ 354,21
+- Saúde e Medicamentos: R$ 253,69
+- Diversos: R$ 357,20
+- Pet: R$ 168,46
+- Manut. FIT: R$ 123,68
+- Reembolsáveis: R$ 370,83
+Saldo do mês: -R$ 452,17
+Saldo acumulado: R$ 9.574,30
+
+-------------
+
+Mês: Setembro
+Receitas Totais: R$ 11.644,53
+Receitas Fixas: R$ 9.897,85
+Receitas Variáveis: R$ 1.746,68
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 7.390,96
+- Reembolsáveis: R$ 258,74
+- Diversos: R$ 245,70
+- Rendimentos de Aplicações: R$ 249,13
+- Férias e 13° salário: R$ 3.500,00
+Despesas Totais: R$ 7.112,89
+Despesas Fixas: R$ 3.912,09
+Despesas Variáveis: R$ 3.200,80
+Despesas por Categoria:
+- Doaçoes: R$ 125,23
+- Despesas de Casa: R$ 2.107,06
+- Carros: R$ 179,34
+- Saúde e Medicamentos: R$ 42,17
+- Alimentação: R$ 711,17
+- Diversos: R$ 147,36
+- Energia: R$ 138,85
+- Cursos e Treinamentos: R$ 320,86
+- Taxas e Impostos: R$ 431,74
+- Escola: R$ 950,00
+- Manut. Gol: R$ 423,55
+- Planos e Assinaturas: R$ 444,98
+- Roupas e Acessórios: R$ 431,10
+- Pet: R$ 183,15
+- Manut. FIT: R$ 122,59
+- Reembolsáveis: R$ 125,28
+- Celular: R$ 112,62
+- Combustíveis: R$ 115,84
+Saldo do mês: R$ 4.531,64
+Saldo acumulado: R$ 14.105,94
+
+-------------
+
+Mês: Outubro
+Receitas Totais: R$ 7.701,85
+Receitas Fixas: R$ 6.546,57
+Receitas Variáveis: R$ 1.155,28
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 7.174,44
+- Reembolsáveis: R$ 272,09
+- Rendimentos de Aplicações: R$ 255,32
+Despesas Totais: R$ 9.217,14
+Despesas Fixas: R$ 5.069,43
+Despesas Variáveis: R$ 4.147,71
+Despesas por Categoria:
+- Despesas de Casa: R$ 2.091,79
+- Doaçoes: R$ 304,25
+- Carros: R$ 365,85
+- Combustíveis: R$ 65,61
+- Internet: R$ 307,45
+- Alimentação: R$ 1.063,91
+- Investimentos: R$ 1.000,00
+- Energia: R$ 345,06
+- Taxas e Impostos: R$ 230,77
+- Escola: R$ 950,00
+- Manut. Gol: R$ 361,44
+- Cursos e Treinamentos: R$ 169,66
+- Planos e Assinaturas: R$ 366,35
+- Pet: R$ 438,10
+- Manut. FIT: R$ 196,25
+- Saúde e Medicamentos: R$ 198,58
+- Celular: R$ 427,65
+- Diversos: R$ 334,42
+Saldo do mês: -R$ 1.515,29
+Saldo acumulado: R$ 12.590,65
+
+-------------
+
+Mês: Novembro (mês atual)
+Receitas Totais: R$ 6.943,82
+Receitas Fixas: R$ 5.902,25
+Receitas Variáveis: R$ 1.041,57
+Receitas por Categoria:
+- Receitas Diversas: R$ 67,60
+- Salários e Quinzenas: R$ 6.876,22
+Despesas Totais: R$ 9.306,03
+Despesas Fixas: R$ 5.118,32
+Despesas Variáveis: R$ 4.187,71
+Despesas por Categoria:
+- Taxas e Impostos: R$ 93,48
+- Doaçoes: R$ 410,04
+- Internet: R$ 368,73
+- Carros: R$ 91,39
+- Saúde e Medicamentos: R$ 377,13
+- Energia: R$ 441,73
+- Despesas de Casa: R$ 2.162,91
+- Habitação: R$ 1.800,00
+- Manut. Gol: R$ 260,44
+- Cursos e Treinamentos: R$ 85,01
+- Planos e Assinaturas: R$ 35,98
+- Manut. FIT: R$ 437,77
+- Pet: R$ 302,86
+- Diversos: R$ 251,16
+- Celular: R$ 422,12
+- Alimentação: R$ 873,52
+- Reembolsáveis: R$ 396,13
+- Roupas e Acessórios: R$ 376,99
+- Combustíveis: R$ 118,64
+Saldo do mês: -R$ 2.362,21
+Saldo acumulado: R$ 10.228,44
+
+-------------
+
+Mês: Dezembro
+Receitas Totais: R$ 7.053,13 (provisionado)
+Receitas Fixas: R$ 5.995,16
+Receitas Variáveis: R$ 1.057,97
+Receitas por Categoria:
+- Salários e Quinzenas: R$ 6.951,10 (provisionado)
+- Receitas Diversas: R$ 102,03 (provisionado)
+Despesas Totais: R$ 4.815,71 (provisionado)
+Despesas Fixas: R$ 2.648,64
+Despesas Variáveis: R$ 2.167,07
+Despesas por Categoria:
+- Taxas e Impostos: R$ 131,03
+- Despesas de Casa: R$ 2.134,57 (provisionado)
+- Doaçoes: R$ 138,93 (provisionado)
+- Manut. Gol: R$ 205,99
+- Planos e Assinaturas: R$ 85,05
+- Manut. FIT: R$ 412,21
+- Cursos e Treinamentos: R$ 178,59
+- Carros: R$ 222,43 (provisionado)
+- Saúde e Medicamentos: R$ 275,01 (provisionado)
+- Diversos: R$ 409,80
+- Internet: R$ 206,66 (provisionado)
+- Energia: R$ 415,44 (provisionado)
+Saldo do mês: R$ 2.237,42
+Saldo acumulado: R$ 12.465,86
+
+-------------
+
+Resumo do Ano:
+Saldo do Ano Anterior: R$ 3.250,40
+Saldo Bancário Atual: R$ 4.870,15
+Valor de Aplicações do Saldo Atual: R$ 12.500,00
+Total de Receitas: R$ 97.180,88
+Total de Receitas Fixas: R$ 82.603,75
+Total de Receitas Variáveis: R$ 14.577,13
+Total de Despesas: R$ 87.965,42
+Total de Despesas Fixas: R$ 48.380,99
+Total de Despesas Variáveis: R$ 39.584,43
+Do total acima, JÁ REALIZADO (Janeiro a Novembro): Receitas R$ 90.127,75 | Despesas R$ 83.149,71
+Do total acima, PROVISIONADO (meses futuros): Receitas R$ 7.053,13 | Despesas R$ 4.815,71
+Saldo Acumulado Final: R$ 12.465,86
+
+Receitas Totais por Categoria no Ano (realizado + provisionado):
+- Salários e Quinzenas: R$ 84.335,82
+- Receitas Diversas: R$ 1.122,49
+- Diversos: R$ 1.028,49
+- Rendimentos de Aplicações: R$ 1.366,51
+- Reembolsáveis: R$ 1.499,84
+- Taxas e Impostos: R$ 190,42
+- PLR: R$ 4.000,00
+- Manut. March: R$ 137,31
+- Férias e 13° salário: R$ 3.500,00
+
+Despesas Totais por Categoria no Ano (realizado + provisionado):
+- Despesas de Casa: R$ 24.945,50
+- Cursos e Treinamentos: R$ 2.663,80
+- Diversos: R$ 2.894,68
+- Alimentação: R$ 9.925,94
+- Despesas Diversas: R$ 540,33
+- Saúde e Medicamentos: R$ 3.566,78
+- Empréstimos: R$ 2.480,00
+- Carros: R$ 2.446,02
+- Manut. Gol: R$ 2.906,49
+- Manut. FIT: R$ 3.066,93
+- Planos e Assinaturas: R$ 2.493,42
+- Outros: R$ 123,76
+- Taxas e Impostos: R$ 2.941,80
+- Escola: R$ 9.500,00
+- Roupas e Acessórios: R$ 2.352,38
+- Doaçoes: R$ 2.790,92
+- Transportes: R$ 186,41
+- Pet: R$ 2.276,68
+- Combustíveis: R$ 1.468,19
+- Manut. March: R$ 409,58
+- Energia: R$ 1.962,69
+- Celular: R$ 1.356,47
+- Internet: R$ 974,41
+- Reembolsáveis: R$ 892,24
+- Investimentos: R$ 1.000,00
+- Habitação: R$ 1.800,00
+
+============================================================
+Contas em Aberto (posição atual - vencimentos até um mês à frente):
+Receitas a Receber (Pendentes): R$ 2.270,00
+- Em Atraso (1): R$ 450,00
+- Vencendo Hoje (0): R$ 0,00
+- A Vencer (3): R$ 1.820,00
+Despesas a Pagar (Pendentes): R$ 5.340,75
+- Em Atraso (0): R$ 0,00
+- Vencendo Hoje (0): R$ 0,00
+- A Vencer (12): R$ 5.340,75
+Saldo Líquido de Contas em Aberto: -R$ 3.070,75
+
+============================================================
+Cartões de Crédito:
+
+Cartão: Cartão Azul
+- Melhor dia de compra: 14 | Dia de vencimento da fatura: 21
+- Limite Total: R$ 8.000,00
+- Limite Utilizado (dívida em aberto): R$ 3.271,36 (40,9% do limite)
+- Limite Disponível: R$ 4.728,64
+- Última fatura paga: R$ 901,98 (venc. 21/10/2026)
+- Faturas em aberto (10) - total R$ 3.271,36:
+  . Vencimento 21/11/2026: R$ 814,78 (7 lançamentos)
+  . Vencimento 21/12/2026: R$ 352,22 (3 lançamentos)
+  . Vencimento 21/01/2027: R$ 89,73 (3 lançamentos)
+  . Vencimento 21/02/2027: R$ 308,86 (3 lançamentos)
+  . Vencimento 21/03/2027: R$ 175,22 (2 lançamentos)
+  . Vencimento 21/04/2027: R$ 82,04 (2 lançamentos)
+  . Vencimento 21/05/2027: R$ 495,57 (2 lançamentos)
+  . Vencimento 21/06/2027: R$ 169,62 (2 lançamentos)
+  . Vencimento 21/07/2027: R$ 326,22 (1 lançamento)
+  . Vencimento 21/08/2027: R$ 457,10 (1 lançamento)
+
+Cartão: Cartão Verde
+- Melhor dia de compra: 25 | Dia de vencimento da fatura: 1
+- Limite Total: R$ 5.000,00
+- Limite Utilizado (dívida em aberto): R$ 1.898,85 (38,0% do limite)
+- Limite Disponível: R$ 3.101,15
+- Última fatura paga: R$ 967,77 (venc. 01/11/2026)
+- Faturas em aberto (5) - total R$ 1.898,85:
+  . Vencimento 01/12/2026: R$ 557,48 (3 lançamentos)
+  . Vencimento 01/01/2027: R$ 349,54 (1 lançamento)
+  . Vencimento 01/02/2027: R$ 368,83 (1 lançamento)
+  . Vencimento 01/03/2027: R$ 487,82 (1 lançamento)
+  . Vencimento 01/04/2027: R$ 135,18 (1 lançamento)
+
+Cartão: Cartão Laranja
+- Melhor dia de compra: 12 | Dia de vencimento da fatura: 17
+- Limite Total: R$ 3.000,00
+- Limite Utilizado (dívida em aberto): R$ 684,62 (22,8% do limite)
+- Limite Disponível: R$ 2.315,38
+- Última fatura paga: R$ 972,36 (venc. 17/10/2026)
+- Faturas em aberto (2) - total R$ 684,62:
+  . Vencimento 17/11/2026: R$ 460,62 (3 lançamentos)
+  . Vencimento 17/12/2026: R$ 224,00 (3 lançamentos)
+
+Cartão: Cartão Preto
+- Melhor dia de compra: 25 | Dia de vencimento da fatura: 4
+- Limite Total: R$ 15.000,00
+- Limite Utilizado (dívida em aberto): R$ 2.496,92 (16,6% do limite)
+- Limite Disponível: R$ 12.503,08
+- Última fatura paga: R$ 1.226,71 (venc. 04/11/2026)
+- Faturas em aberto (5) - total R$ 2.496,92:
+  . Vencimento 04/12/2026: R$ 784,64 (7 lançamentos)
+  . Vencimento 04/01/2027: R$ 372,10 (3 lançamentos)
+  . Vencimento 04/02/2027: R$ 475,20 (2 lançamentos)
+  . Vencimento 04/03/2027: R$ 554,49 (2 lançamentos)
+  . Vencimento 04/04/2027: R$ 310,49 (1 lançamento)
+
+Resumo dos Cartões:
+- Limite Total (todos os cartões): R$ 31.000,00
+- Total Utilizado (dívida total em cartões): R$ 8.351,75 (26,9% do limite total)
+- Limite Disponível Total: R$ 22.648,25
+- Total das próximas faturas a pagar (a primeira em aberto de cada cartão): R$ 2.617,52
+- Total de TODAS as faturas em aberto (compromisso já assumido nos cartões): R$ 8.351,75

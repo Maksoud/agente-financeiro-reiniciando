@@ -1,0 +1,28 @@
+# Dados financeiros do cliente: NUNCA publicar. Só a estrutura (LEIAME.md) vai para o repositório.
+entrada/*
+!entrada/LEIAME.md
+dados/*
+!dados/LEIAME.md
+analise/*
+!analise/LEIAME.md
+proposta/*
+!proposta/LEIAME.md
+
+# Progresso do cliente (criado a partir de templates/estado.md)
+/estado.md
+
+# Extratos soltos fora de entrada/ por engano
+*.ofx
+*.OFX
+extrato*.pdf
+!exemplos/**
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

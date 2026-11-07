@@ -63,6 +63,7 @@ def main() -> int:
     def soma_cats(cats, alvo):
         return sum((dec(c["valor"]) for k, c in cats.items() if normalizar_texto(k) in alvo), D0)
     rec_fech_cat = defaultdict(lambda: D0)
+    desp_fech_cat = defaultdict(lambda: D0)
 
     meses = []
     for m in r["meses"]:
@@ -75,6 +76,9 @@ def main() -> int:
             for k, c in m["receitas"]["categorias"].items():
                 if normalizar_texto(k) not in neutras:
                     rec_fech_cat[k] += dec(c["valor"])
+            for k, c in m["despesas"]["categorias"].items():
+                if normalizar_texto(k) not in neutras:
+                    desp_fech_cat[k] += dec(c["valor"])
         aporte = sum((dec(c["valor"]) for k, c in m["despesas"]["categorias"].items() if eh_invest(k)), D0)
         meses.append({"mes": m["mes"], "estado": "provisionado" if m["provisionado"] else "atual" if m["atual"] else "fechado",
                       "receitas": rec, "despesas": desp, "aporte": aporte, "consumo": desp - aporte, "eventuais": evt, "rec_recorrente": rec - evt,
@@ -151,6 +155,9 @@ def main() -> int:
     md += ["", "## Receitas por categoria nos meses fechados", "", "| Categoria | Total | Média mensal | Tipo |", "|---|---:|---:|---|"]
     md += [f"| {k} | {brl(v)} | {brl(v / n)} | {'eventual' if normalizar_texto(k) in eventuais else 'recorrente/anual'} |"
            for k, v in sorted(rec_fech_cat.items(), key=lambda x: x[1], reverse=True)]
+    md += ["", "## Despesas por categoria nos meses fechados", "", "| Categoria | Total | Média mensal | Meses com lançamento |", "|---|---:|---:|---:|"]
+    md += [f"| {k} | {brl(v)} | {brl(v / n)} | {sum(1 for m in r['meses'] if not m['provisionado'] and not m['atual'] and k in m['despesas']['categorias'])} |"
+           for k, v in sorted(desp_fech_cat.items(), key=lambda x: x[1], reverse=True)]
     md += ["", "## Despesas por categoria no ano (realizado + provisionado)", "",
            "| Categoria | Total | % do consumo |", "|---|---:|---:|"]
     md += [f"| {k} | {brl(v)} | {'aporte' if eh_invest(k) else pct(v, consumo_ano)} |" for k, v in sorted(desp_cat.items(), key=lambda x: x[1], reverse=True)]
@@ -173,7 +180,8 @@ def main() -> int:
     ind = {"meses_fechados": [m["mes"] for m in fech], "media": {k: str(v) for k, v in media.items()},
            "soma_fechados": {k: str(v) for k, v in soma.items()}, "meses_negativos": [m["mes"] for m in negativos],
            "tendencia_saldo": str(tend), "neutras": a.neutras, "eventuais": a.eventuais,
-           "receitas_fechados_por_categoria": {k: str(v) for k, v in rec_fech_cat.items()}, "saldo_bancario": str(banco), "aplicacoes": str(aplic), "folga_imediata": str(folga),
+           "receitas_fechados_por_categoria": {k: str(v) for k, v in rec_fech_cat.items()},
+           "despesas_fechados_por_categoria": {k: str(v) for k, v in desp_fech_cat.items()}, "saldo_bancario": str(banco), "aplicacoes": str(aplic), "folga_imediata": str(folga),
            "a_receber": str(receber), "a_pagar": str(pagar), "atraso_receber": str(atraso_rec), "atraso_pagar": str(atraso_pag),
            "cartoes_limite": str(lim_total), "cartoes_utilizado": str(usado), "proximas_faturas": str(proximas),
            "faturas_total": str(total_faturas), "compromisso_por_mes": {k: str(v) for k, v in sorted(compromisso.items())},
